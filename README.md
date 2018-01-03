@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# AFNIL
+Anti Fake News International List
 
-You can use the [editor on GitHub](https://github.com/AFNIL-AntiFakeNewsInternationalList/afnil-antifakenewsinternationallist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Afnil's intention is to merge third-party lists of known fakenews sites and make them usable for programs that can block them
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Install AFNIL in AdBlockPlus or uBlockOrigin](https://raw.githubusercontent.com/AFNIL-AntiFakeNewsList/AFNIL/master/AFNIL-ABP-uBO.txt)
 
-### Markdown
+Sources:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 
-```markdown
-Syntax highlighted code block
+bufalopedia.blogspot.it/p/siti-creatori-di-bufale.html
 
-# Header 1
-## Header 2
-### Header 3
+lexpress.fr/actualite/societe/conspirations-rumeurs-parodies-l-annuaire-des-sites-d-infaux_1646237.html
 
-- Bulleted
-- List
+bufale.net/home/the-black-list-la-lista-nera-del-web
 
-1. Numbered
-2. List
+raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fake-news.txt
 
-**Bold** and _Italic_ and `Code` text
+butac.it/the-black-list/
 
-[Link](url) and ![Image](src)
-```
+fortliberty.org/hoax-sites.html
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+hoaxoffame.tumblr.com/post/98470722477/fake-news-websites-you-shouldnt-trust
 
-### Jekyll Themes
+issoenoticia.com.br/artigo/projeto-da-usp-lista-10-maiores-sites-de-falsas-noticias-no-brasil
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AFNIL-AntiFakeNewsInternationalList/afnil-antifakenewsinternationallist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+en.wikipedia.org/wiki/Wikipedia:Zimdars%27_fake_news_list
